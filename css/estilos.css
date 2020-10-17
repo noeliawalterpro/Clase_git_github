@@ -1,5 +1,11 @@
 body{
-    color: deeppink;
+    color: black;
     text-align: center;
     font-family: "Arial";
+}
+
+.container{
+    border: 1px solid black;
+   color: blueviolet;
+
 }
