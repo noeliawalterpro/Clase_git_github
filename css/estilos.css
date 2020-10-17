@@ -1,12 +1,12 @@
 body{
-    color: black;
+    color: RED;
     text-align: center;
     font-family: "Arial";
 }
 
 .container{
     border: 1px solid black;
-   color: blueviolet;
+  
 
 }
 
