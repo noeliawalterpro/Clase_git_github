@@ -9,3 +9,9 @@ body{
    color: blueviolet;
 
 }
+
+#cabecera{
+    background: blueviolet;
+    color: white;
+    font-size: large;
+}
